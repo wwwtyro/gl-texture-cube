@@ -1,7 +1,7 @@
 {
   "name": "gl-texture-cube",
   "version": "1.0.0",
-  "description": "WebGL cube texture object wrapper.",
+  "description": "Wraps WebGL's cube texture object.",
   "main": "index.js",
   "scripts": {
     "start": "budo --live example/index.js -- -t glslify",
@@ -24,5 +24,17 @@
     "gl-shader": "^4.1.1",
     "glslify": "^5.0.0",
     "standard": "^5.4.1"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwtyro/gl-texture-cube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwwtyro/gl-texture-cube/issues"
+  },
+  "homepage": "https://github.com/wwwtyro/gl-texture-cube#readme"
 }
