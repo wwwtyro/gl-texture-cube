@@ -1,6 +1,6 @@
 {
   "name": "gl-texture-cube",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps WebGL's cube texture object.",
   "main": "index.js",
   "scripts": {

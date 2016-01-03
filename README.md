@@ -17,7 +17,7 @@ npm install gl-texture-cube
 
 ```js
 var Box3D = require('geo-3d-box')
-var TextureCube = require('../index.js')
+var TextureCube = require('gl-texture-cube')
 
 var boxData = Box3D({size: 2})
 
